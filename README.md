@@ -148,7 +148,5 @@ See the **[License](./LICENSE)** file for details.
 
 [**Sahil Sharma**](https://github.com/sahil-me)
 
-Thank you for exploring this project. 
-
-If you find it helpful, consider giving the repository a ⭐ to support its continued development.
+Thank you for exploring this project. If you found it helpful, consider giving the repository a ⭐ to support its continued development.
 
