@@ -9,10 +9,10 @@ https://github.com/user-attachments/assets/acccbdf2-b734-4d51-b0d7-9f4dda303ca4
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
 - [Application Workflow](#application-workflow)
+- [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -39,12 +39,6 @@ The project demonstrates object-oriented programming principles, event-driven pr
 - Error handling
 - Lightweight desktop application
 - Fast calculation execution
-
----
-
-## Screenshots
-
-![Calculator App Screenshot](https://github.com/user-attachments/assets/068ad05b-3ab2-4423-83d4-873511a1da92)
 
 ---
 
@@ -102,6 +96,12 @@ Calculator_App/
 5️⃣ View the calculated result instantly.
 
 6️⃣ Press **0** to clear the current input and start a new calculation.
+
+---
+
+## Screenshots
+
+![Calculator App Screenshot](https://github.com/user-attachments/assets/068ad05b-3ab2-4423-83d4-873511a1da92)
 
 ---
 
