@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+# 🧮 Calculator App 🔢
 
 https://github.com/user-attachments/assets/acccbdf2-b734-4d51-b0d7-9f4dda303ca4
 
